@@ -91,6 +91,8 @@ There is a profound difference between a universe that frequently produces civil
 
 The empty sky does not answer that question. It makes the question unavoidable.
 
+## Notes
+
 [^seti]: [Search for extraterrestrial intelligence](https://en.wikipedia.org/wiki/Search_for_extraterrestrial_intelligence)
 [^technosignature]: [Technosignature](https://en.wikipedia.org/wiki/Technosignature)
 [^fermi-paradox]: [Fermi paradox](https://en.wikipedia.org/wiki/Fermi_paradox)
