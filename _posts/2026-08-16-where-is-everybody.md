@@ -9,9 +9,9 @@ The universe has had an enormous amount of time to produce someone less subtle t
 
 Instead, we have silence.
 
-Not complete silence. We have strange signals that turn out to be pulsars, unusual stars that turn out to be dust, and a growing catalog of planets that may or may not be suitable for life. We have searched a tiny fraction of the possible frequencies, places, times, and forms in which evidence could appear. What we do not have is a confirmed extraterrestrial signal, artifact, probe, or work of engineering.
+Not complete silence. We have strange signals that turn out to be pulsars, unusual stars that turn out to be dust, and a growing catalog of planets that may or may not be suitable for life. The search for extraterrestrial intelligence[^seti] has sampled only a tiny fraction of the possible frequencies, places, times, and forms in which evidence could appear. What we do not have is a confirmed technosignature:[^technosignature] an extraterrestrial signal, artifact, probe, or work of engineering.
 
-That absence is usually called the Fermi Paradox. The name makes it sound like a contradiction. It is really a collision between a set of plausible assumptions and one stubborn observation.
+That absence is usually called the Fermi Paradox.[^fermi-paradox] The name makes it sound like a contradiction. It is really a collision between a set of plausible assumptions and one stubborn observation.
 
 The assumptions are where the interesting work begins.
 
@@ -19,25 +19,35 @@ The assumptions are where the interesting work begins.
 
 Our galaxy is billions of years older than technological humanity. That comparison matters more than the raw size of the Milky Way.
 
-Crossing the galaxy is difficult, but it does not require faster-than-light travel. Even at speeds far below the speed of light, a civilization that established new settlements and launched new missions from each one could spread in stages. Depending on the assumptions, the process might take millions or tens of millions of years. Those are almost incomprehensible spans for us, but brief intervals compared with the age of the galaxy.
+The oldest and sharpest version of the paradox is not about distant radio signals. It is about the apparent absence of visitors here.
 
-The same is true of signals and machines. A long-lived civilization would not need to be deliberately calling us. Its energy use, industrial activity, probes, waste heat, or alterations to its environment might be visible by accident. A civilization does not have to occupy every star to change what an astronomer sees.
+In 1975, Michael Hart argued that an expanding civilization could settle the galaxy long before the present day. Frank Tipler later sharpened the argument by replacing biological settlers with self-replicating spacecraft, often called von Neumann probes.[^self-replicating-spacecraft] Together, this is now known as the Hart–Tipler argument.[^hart-tipler]
 
-Human beings have been capable of radio astronomy for roughly a century. On galactic timescales, we arrived an instant ago. If technological civilizations had appeared throughout the Milky Way for billions of years, it is reasonable to ask why our first close look did not reveal a galaxy already shaped by them.
+The mechanism is simple. Send expeditions to nearby stars. Let each successful settlement, factory, or probe make more expeditions. The frontier then expands without requiring any ship to cross the galaxy by itself. Under Hart's aggressive assumptions—travel at one-tenth the speed of light and no delay before each colony launches again—the wave could cross most of the Milky Way in roughly 650,000 years. Add long pauses, failed missions, and slower travel, and the estimate becomes millions or tens of millions of years. That is still brief compared with the age of the galaxy.
 
-That is the force of the question. It is not, “Why haven't aliens landed on the White House lawn?” It is, “Why does the universe still look so thoroughly unclaimed?”
+More importantly, the argument only needs one successful lineage. Most civilizations could remain at home. Most probes could fail. Most species could lose interest in expansion. If technological civilizations have appeared many times, however, every one of them—and every autonomous system or descendant civilization they create—must either avoid sustained expansion or fail at it. One exception could eventually reach everywhere.
+
+We have not built a machine that can cross interstellar space, extract raw materials, and reproduce without help. The difficulty may be far greater than we imagine. But no known law of physics forbids such a machine, and our progress in automation makes the premise less remote than it once seemed.
+
+This does not prove that nobody else exists. A colonization wave might stall. Civilizations might converge on restraint. Probes might pass through without leaving recognizable evidence, or lie dormant where we have not looked. But those are answers the argument forces us to supply. The central question is not merely why nobody has called. It is why nobody appears to have arrived.
+
+The sky offers supporting evidence, although not all of it carries the same weight. Astronomers have searched for stars and galaxies radiating unusual amounts of infrared waste heat—the expected byproduct of large-scale energy use, including hypothetical Dyson spheres.[^dyson-sphere] So far, there is no confirmed example. These searches place meaningful limits on conspicuous, galaxy-spanning civilizations high on the Kardashev scale,[^kardashev-scale] but they cannot rule out modest, efficient, or deliberately inconspicuous technology.
+
+We have also begun measuring the composition of exoplanet atmospheres by studying their spectra. We have found water, carbon dioxide, methane, and other molecules, but no confirmed biosignature.[^biosignature] That result is much less constraining: only a small and unrepresentative set of atmospheres can currently be studied in useful detail. Atmospheric spectroscopy is the beginning of a search, not yet a strong silence.
+
+Human beings have been capable of radio astronomy for roughly a century. On galactic timescales, we arrived an instant ago. Our remote surveys remain shallow, but the Hart–Tipler question is local and severe. If even one technological lineage began spreading through the Milky Way millions or billions of years before us, why is there no clear trace of it here?
 
 ## How to manufacture a paradox
 
-The paradox only appears when several uncertain claims are multiplied together.
+The paradox only appears when several uncertain claims are multiplied together. This is the same basic structure made famous by the Drake equation,[^drake-equation] although the purpose here is not to produce a confident number.
 
 First, suitable worlds must be common enough. We now know that planets themselves are common, but a planet is not the same thing as a durable home for complex life. The relevant conditions may depend on a stable climate, chemistry, geology, a protective atmosphere, the behavior of the host star, and factors we have not learned to ask about.
 
-Second, life must begin on some meaningful fraction of those worlds. On Earth, life seems to have appeared relatively early. That could mean life begins readily when conditions permit it. It could also be a selection effect: observers can only find themselves on a world where life began early enough for observers to evolve. With one known origin of life, both interpretations remain available.
+Second, life must begin on some meaningful fraction of those worlds. On Earth, life seems to have appeared relatively early. That could mean life begins readily when conditions permit it. It could also be an observer-selection effect:[^anthropic-principle] observers can only find themselves on a world where life began early enough for observers to evolve. With one known origin of life, both interpretations remain available.
 
 Third, evolution must sometimes produce intelligence capable of cumulative technology. Earth has hosted life for most of its history, complex animals for a much shorter period, and a species capable of radio telescopes for almost no time at all. Intelligence is useful in many environments, but the particular combination of language, cooperation, dexterity, energy use, and accumulated culture behind modern technology may be rare.
 
-Fourth, technological civilizations must survive long enough to become conspicuous. The ability to manipulate a planet arrives with the ability to damage one. War, ecological collapse, engineered disease, uncontrolled technology, or some failure mode invisible to us could repeatedly end the story near our present chapter.
+Fourth, technological civilizations must survive long enough to become conspicuous. The ability to manipulate a planet arrives with the ability to damage one. War, ecological collapse, engineered disease, uncontrolled technology, or some failure mode invisible to us could repeatedly end the story near our present chapter. Any consistently difficult step between lifeless matter and a durable spacefaring civilization is a candidate for the Great Filter.[^great-filter]
 
 Fifth, advanced civilizations must do something we could detect. They may not expand. Their energy use may become more efficient rather than more extravagant. Their communication may be tightly directed, encrypted, or based on physics we do not monitor. They may build close to small stars, live in virtual environments, or simply have no reason to announce themselves to a species at our stage of development.
 
@@ -51,7 +61,7 @@ At least one term in that multiplication must be smaller than the optimistic sto
 
 Most proposed solutions fall into a few families.
 
-**Perhaps life, or intelligent life, is rare.** The first replicating chemistry may be an extraordinary accident. Complex cells may be the bottleneck. Multicellular life, general intelligence, language, or technological culture may each require a sequence of contingencies that almost never repeats. A galaxy full of habitable planets need not be a galaxy full of minds.
+**Perhaps life, or intelligent life, is rare.** The first replicating chemistry may be an extraordinary accident. Complex cells may be the bottleneck. Multicellular life, general intelligence, language, or technological culture may each require a sequence of contingencies that almost never repeats. A galaxy full of habitable planets need not be a galaxy full of minds. This family of explanations includes the Rare Earth hypothesis.[^rare-earth]
 
 **Perhaps civilizations do not last.** Intelligence may arise often and still leave almost no overlap between technological species. Civilizations could destroy themselves, lose the conditions that support advanced industry, or encounter dangers that reliably appear as their capabilities grow. In this family of answers, the silence is not evidence that nothing begins. It is evidence that almost nothing continues.
 
@@ -59,7 +69,7 @@ Most proposed solutions fall into a few families.
 
 This answer has a difficult burden: it need not explain why every civilization stays home, but it must explain why nearly all of them do. If civilizations are numerous and varied, even one persistent expansionist society could eventually become difficult to miss.
 
-**Perhaps they are present but difficult to detect.** Our searches may be looking for the technological equivalent of smoke signals. Evidence might be too distant, too old, too small, or too unlike our expectations. Civilizations could conceal themselves intentionally, although proposals involving universal secrecy face the same coordination problem as universal non-expansion. It is easier to imagine one quiet civilization than a galaxy in which everyone remains quiet forever.
+**Perhaps they are present but difficult to detect.** Our searches may be looking for the technological equivalent of smoke signals. Evidence might be too distant, too old, too small, or too unlike our expectations. Civilizations could conceal themselves intentionally, as proposed by the Zoo hypothesis,[^zoo-hypothesis] although universal secrecy faces the same coordination problem as universal non-expansion. It is easier to imagine one quiet civilization than a galaxy in which everyone remains quiet forever.
 
 **Perhaps our premise is wrong in some deeper way.** We may misunderstand what advanced technology looks like, how intelligence behaves, or which features of the universe are available for engineering. This category is useful as a reminder of our ignorance, but it is not yet much of an explanation. A mystery cannot be solved merely by pointing out that the answer may be mysterious.
 
@@ -80,3 +90,17 @@ For our purposes, one unknown matters more than the others: how often does intel
 There is a profound difference between a universe that frequently produces civilizations able to create extraordinary new forms of computation and one in which nearly every civilization disappears before reaching that point. Any theory that depends on ancient, powerful creators first depends on there being creators to do the creating.
 
 The empty sky does not answer that question. It makes the question unavoidable.
+
+[^seti]: [Search for extraterrestrial intelligence](https://en.wikipedia.org/wiki/Search_for_extraterrestrial_intelligence)
+[^technosignature]: [Technosignature](https://en.wikipedia.org/wiki/Technosignature)
+[^fermi-paradox]: [Fermi paradox](https://en.wikipedia.org/wiki/Fermi_paradox)
+[^self-replicating-spacecraft]: [Self-replicating spacecraft](https://en.wikipedia.org/wiki/Self-replicating_spacecraft)
+[^hart-tipler]: [Hart–Tipler conjecture](https://en.wikipedia.org/wiki/Hart%E2%80%93Tipler_conjecture)
+[^dyson-sphere]: [Dyson sphere](https://en.wikipedia.org/wiki/Dyson_sphere)
+[^kardashev-scale]: [Kardashev scale](https://en.wikipedia.org/wiki/Kardashev_scale)
+[^biosignature]: [Biosignature](https://en.wikipedia.org/wiki/Biosignature)
+[^drake-equation]: [Drake equation](https://en.wikipedia.org/wiki/Drake_equation)
+[^anthropic-principle]: [Anthropic principle](https://en.wikipedia.org/wiki/Anthropic_principle)
+[^great-filter]: [Great Filter](https://en.wikipedia.org/wiki/Great_Filter)
+[^rare-earth]: [Rare Earth hypothesis](https://en.wikipedia.org/wiki/Rare_Earth_hypothesis)
+[^zoo-hypothesis]: [Zoo hypothesis](https://en.wikipedia.org/wiki/Zoo_hypothesis)
